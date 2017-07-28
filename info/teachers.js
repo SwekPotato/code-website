@@ -1,5 +1,11 @@
 module.exports = [
 	{
+		img:"",
+		name:"Jonathan Park",
+		bio: "I am a high school sophomore who loves being with kids. I enjoy teaching them my hobby of programming. Throughout this course, I will be covering how to create our own apps." +
+		"I am also proficient in the following computer languages: Java, javascript, c, python and also familiar with html and css."
+	},
+	{
 		img: "./img/eugene.jpg",
 		name: "Eugene Hwang",
 		bio: "I am a high school junior who is currently learning the touches of making a website."
